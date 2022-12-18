@@ -1,4 +1,4 @@
-# Google Contacts Clone App for `Web Development Learning Series DI`
+# Google Contacts Clone App for `Web Development Learning Series DI 1`
 
 ![Full-Stack Google Contacts Clone with Adonis.js/Node.js & Quasar/Vue.js Banner](ui/public/images/Google-Contacts-Clone-Series-Cover.jpg)
 
