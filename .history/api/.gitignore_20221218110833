@@ -5,5 +5,3 @@ coverage
 .DS_STORE
 .env
 tmp
-.history
-thunder-tests/thunderEnvironment.db
